@@ -1,0 +1,19 @@
+username-Anamika
+password-@Knight12
+
+----> command to see what sql query is actually executing by django to create table in sqllite
+	>python manage.py sqlmigrate blog 0001
+
+	here blog is the application name and 0001 is the migration number
+	
+-----> command to make migration in sql database
+	>python manage.py migrate	
+
+----->command to get poweshell
+	python manage.py shell
+
+
+
+
+adding rows coloumns and index to dataframe
+
